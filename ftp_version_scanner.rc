@@ -1,0 +1,5 @@
+use auxiliary/scanner/ftp/ftp_version
+set RHOSTS 192.168.56.101
+set THREADS 4
+run
+exit -y
